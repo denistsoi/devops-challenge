@@ -2,7 +2,7 @@
 
 ## The objective
 
-Modify/extend this repo in such a way that the webapplication is packaged as Docker images and can be run on a Kubernetes cluster.
+Modify/extend this repo in such a way that the webapplication is packaged as Docker images and can be run on an existing Kubernetes cluster. The task should take 1-3 hours of work.
 
 ## The application
 
