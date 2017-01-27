@@ -28,4 +28,4 @@ Modify/extend this repo in such a way that the webapplication is packaged as Doc
   * the name of the repository and account name should come from the `DOCKER_REPO` make variable (eg. `make docker-images DOCKER_REPO=dockerrepo.example.com/jdoe`)
  * write the necessary Kubernetes deployment and service files that can be used to create the full application, running 2 instances of each server
  * modify the Makefile and add the `kubernetes-test` target that spawns up the Kubernetes deployment and service and tests if the webapp works correctly for the values a = 30, b = 40
- * wrap it up as a pull request
+ * wrap it up as a tarball and mail it to us
